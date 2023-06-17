@@ -1,0 +1,16 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    background-image: url('./Forest-background.webp');
+    background-size: cover;
+}
+
+iframe {
+    /* width: 10px; */
+}
+
+/* canvas {
+    filter: blur(1px);
+} */
